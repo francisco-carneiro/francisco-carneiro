@@ -1,16 +1,13 @@
-## Hi there 👋
+# Francisco Carlos Sant'Ana Carneiro
 
-<!--
-**francisco-carneiro/francisco-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher based in Brazil. I work on offensive security, digital forensics, and coordinated vulnerability disclosure. I am the founder of JRTech Group / Forense Seg.
 
-Here are some ideas to get you started:
+My research focuses on finding and validating security issues through code review and controlled laboratory testing, then reporting reproducible evidence to maintainers through appropriate private channels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/francisco-carneiro/)
+- [Forense Seg](https://forense.seg.br/)
+- Bugcrowd: `jrsuzano`
+
+Publicly disclosed security advisories and research will be listed here after publication by the affected projects.
